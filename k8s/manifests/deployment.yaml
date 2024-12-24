@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: nanarhjass12/go-web-app1:v1
+        image: nanarhjass12/end-to-end:7
         ports:
         - containerPort: 8080
